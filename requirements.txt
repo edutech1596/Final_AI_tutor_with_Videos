@@ -1,0 +1,39 @@
+# Core AI Services
+openai
+aiohttp
+
+# Speech-to-Text (STT)
+vosk
+SpeechRecognition
+pyaudio
+
+# Text-to-Speech (TTS)
+pydub
+gtts
+pyttsx3
+
+# Audio Processing
+sounddevice
+numpy
+
+# Web API (Phase 1)
+flask
+requests
+
+# Image Processing (Phase 2)
+pytesseract
+opencv-python
+pillow
+
+# Optional Free Vision Tools (install as needed)
+# paddleocr  # Uncomment to install PaddleOCR
+# easyocr    # Uncomment to install EasyOCR
+# scikit-image  # Uncomment to install scikit-image
+
+# Performance & Caching
+redis  # Optional: for distributed caching
+psutil  # System monitoring
+
+# Utilities
+python-dateutil
+python-dotenv  # For environment variable management
